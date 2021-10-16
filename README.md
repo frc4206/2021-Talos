@@ -1,7 +1,10 @@
-# Example Swerve Project
+# 4206 Talos
 
-When using Swerve Drive Specialties MK2 modules this template code will provide a quick and simple way to get your robot driving.
-
+Features
+-Swerve MK2 Modules code 
+-Limelight Targeting
+-Ajustable Servo code for hood
+-Autonomous Code for Swerve 
 
 ## Configure For Your Robot
 
