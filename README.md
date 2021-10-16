@@ -1,6 +1,9 @@
 # 4206 Talos
 
-Features
+The Robot code that was used during the Texas Cup for team 4206. With some features that other teams might be able use
+
+Features:
+
 -Swerve MK2 Modules code 
 
 -Limelight Targeting
